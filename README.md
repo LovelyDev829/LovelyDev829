@@ -1,7 +1,7 @@
 <img align="center" src="https://github.com/LovelyDev829/LovelyDev829/blob/main/top.jpg" />
 
 <div align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Comic+Sans+MS&size=30&pause=1000&center=true&width=520&lines=I+am+a+FrontEnd+Engineer;Over+9+years+of+hand-on+experience;Deep+knowledge+in+Backend+development" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Comic+Sans+MS&size=30&pause=1000&center=true&width=520&lines=I+am+a+FrontEnd+Engineer;Over+9+years+of+hand-on+experience;Deep+knowledge+in+Backend+building" alt="Typing SVG" />
 </div>
 
 <img align="center" src="https://github.com/LovelyDev829/LovelyDev829/blob/main/bottom.jpg" />
