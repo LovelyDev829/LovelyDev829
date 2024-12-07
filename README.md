@@ -2,6 +2,17 @@
 
 ![GitHub Views](https://komarev.com/ghpvc/?username=LovelyDev829)
 
+## Recent Visitor Comments
+| Username | Comment | Date |
+|----------|---------|------|
+| ![User1](https://github.com/User1.png) User1 | Great work! | 2024-12-01 |
+| ![User2](https://github.com/User2.png) User2 | Very helpful! | 2024-12-02 |
+| ![User3](https://github.com/User3.png) User3 | Awesome project! | 2024-12-03 |
+| ![User4](https://github.com/User4.png) User4 | Keep it up! | 2024-12-04 |
+| ![User5](https://github.com/User5.png) User5 | Nice read! | 2024-12-05 |
+
+[![Add a Note](https://img.shields.io/badge/Add%20a%20Note-Click%20Here-brightgreen)](https://github.com/LovelyDev829/LovelyDev829/issues/new)
+
 ## Overview
 <div align="center">
   <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=elitesuper&theme=github" />

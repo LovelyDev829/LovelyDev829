@@ -1,0 +1,29 @@
+name: Update README
+
+on:
+  schedule:
+    - cron: '0 * * * *' # Runs every hour
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+      
+      - name: Update README
+        run: |
+          # Fetch issues and format them into Markdown
+          echo "## Recent Visitor Comments" > README.md
+          echo "| Username | Comment | Date |" >> README.md
+          echo "|----------|---------|------|" >> README.md
+
+          # Replace this with actual command to fetch issues from your repo
+          curl -s https://api.github.com/repos/LovelyDev829/LovelyDev829/issues \
+            | jq -r '.[] | "| ![User](\(.user.avatar_url)) \(.user.login) | \(.title) | \(.created_at)"' >> README.md
+
+          git config --local user.email "lovelydeveloper829@gmail.com"
+          git config --local user.name "LovelyDev829"
+          git commit -am "Update README with latest comments"
+          git push
