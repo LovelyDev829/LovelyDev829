@@ -1,5 +1,10 @@
 <img align="center" src="./welcome.png" />
 
+
+![GitHub Views](https://komarev.com/ghpvc/?username=LovelyDev829)
+
+![Visitor Count](https://profile-counter.glitch.me/LovelyDev829/count.svg)
+
 ## Overview
 <div align="center">
   <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=elitesuper&theme=github" />
