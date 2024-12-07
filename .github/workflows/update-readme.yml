@@ -1,13 +1,15 @@
 name: Update README
 
 on:
-  schedule:
-    - cron: '0 * * * *' # Runs every hour
-  workflow_dispatch:
+    issue_comment:
+      types: [created, edited, deleted]
 
 jobs:
-  update-readme:
+  update_guestbook:
+    name: Update guestbook
+    if: ${{ github.event.issue.title == 'Guestbook' }}
     runs-on: ubuntu-latest
+    
     steps:
       - name: Checkout repository
         uses: actions/checkout@v2
