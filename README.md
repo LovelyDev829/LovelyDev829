@@ -1,11 +1,6 @@
 <img align="center" src="./welcome.png" />
 
-
 ![GitHub Views](https://komarev.com/ghpvc/?username=LovelyDev829)
-
-![Visitor Count](https://profile-counter.glitch.me/LovelyDev829/count.svg)
-
-![Visitor Count](https://profile-counter.glitch.me/LovelyDev829/count.svg?color=white&style=circle)
 
 ## Overview
 <div align="center">
