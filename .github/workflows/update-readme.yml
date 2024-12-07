@@ -4,6 +4,9 @@ on:
   issue_comment:
     types: [created, edited, deleted]
 
+permissions:
+  contents: write  # Grant write permission to the contents of the repository
+
 jobs:
   update_guestbook:
     name: Update guestbook
@@ -59,5 +62,5 @@ jobs:
         run: |
           git config --global user.name 'Github Actions'
           git config --global user.email '41898282+github-actions[bot]@users.noreply.github.com'
-          git commit -am ':sparkles: update guestbook'
+          git commit -am ':sparkles: update guestbook' || exit 0  # Avoid error if no changes
           git push
