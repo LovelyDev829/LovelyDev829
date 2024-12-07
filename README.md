@@ -17,6 +17,30 @@ Here are some comments from my guestbook:
 
 [![Add a Note](https://img.shields.io/badge/Add%20a%20Note-Click%20Here-brightgreen)](https://github.com/LovelyDev829/LovelyDev829/issues/1)
 
+
+
+
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=LovelyDev829&show_icons=true&include_all_commits=true&theme=transparent&hide_border=true" alt="Anurag's github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LovelyDev829&layout=compact&theme=transparent&hide_border=true" /> |
+| ------------- | ------------- |
+
+#### Top Repositories
+
+<a href="https://github.com/LovelyDev829/lobe-chat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LovelyDev829&repo=lobe-chat&theme=transparent" />
+</a>
+<a href="https://github.com/LovelyDev829/Deep-Live-Cam">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LovelyDev829&repo=Deep-Live-Cam&theme=transparent" />
+</a>
+<a href="https://github.com/LovelyDev829/highest-paying-software-companies">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LovelyDev829&repo=highest-paying-software-companies&theme=transparent" />
+</a>
+<a href="https://github.com/LovelyDev829/interior-designer-ai">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LovelyDev829&repo=interior-designer-ai&theme=transparent" />
+</a>
+
+
+
+
 ## Overview
 <div align="center">
   <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=elitesuper&theme=github" />
