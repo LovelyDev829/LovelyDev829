@@ -6,29 +6,13 @@
 Here are some comments from my guestbook:
 
 <!-- Guestbook -->
-<style>
-  table {
-    width: 100%;
-    border-collapse: collapse;
-  }
-  th, td {
-    vertical-align: middle; /* Center align text */
-    padding: 10px; /* Add some padding */
-  }
-  a > img {
-    border-radius: 50%;
-    vertical-align: middle; /* Make avatars round */
-    padding-right: 5px
-  }
-</style>
-
 | Name | Date | Message |
 |-------|-------|-------|
-| <a href="https://github.com/Meshwa428"><img width="30" src="https://avatars.githubusercontent.com/u/135232056?s=24&v=4" alt="Meshwa428" /> Meshwa428</a> | 12/1/2024, 11:49:14 AM | This is insane!!!!! |
-| <a href="https://github.com/sokorototo"><img width="30" src="https://avatars.githubusercontent.com/u/53893043?s=24&v=4" alt="sokorototo" /> sokorototo</a> | 11/25/2024, 9:27:41 PM | rust > javascript |
-| <a href="https://github.com/SD-W1972"><img width="30" src="https://avatars.githubusercontent.com/u/93013194?s=24&v=4" alt="SD-W1972" /> SD-W1972</a> | 11/25/2024, 2:15:55 AM | heyyyy thats so cool |
-| <a href="https://github.com/ImenaOphelia"><img width="30" src="https://avatars.githubusercontent.com/u/137053456?s=24&v=4" alt="ImenaOphelia" /> ImenaOphelia</a> | 11/23/2024, 6:39:37 PM | Cool as hell! Don't you ever change it |
-| <a href="https://github.com/arssite"><img width="30" src="https://avatars.githubusercontent.com/u/91518669?s=24&v=4" alt="arssite" /> arssite</a> | 11/23/2024, 5:02:34 PM | Great Profile |
+| <a href="https://github.com/Meshwa428" style="display: flex; align-items: center;" ><img width="30" src="https://avatars.githubusercontent.com/u/135232056?s=24&v=4" alt="Meshwa428" style="border-radius: 50%; margin-right: 5px;"/> Meshwa428</a> | 12/1/2024, 11:49:14 AM | This is insane!!!!! |
+| <a href="https://github.com/sokorototo" style="display: flex; align-items: center;"><img width="30" src="https://avatars.githubusercontent.com/u/53893043?s=24&v=4" alt="sokorototo" style="border-radius: 50%; margin-right: 5px;"/> sokorototo</a> | 11/25/2024, 9:27:41 PM | rust > javascript |
+| <a href="https://github.com/SD-W1972" style="display: flex; align-items: center;"><img width="30" src="https://avatars.githubusercontent.com/u/93013194?s=24&v=4" alt="SD-W1972" style="border-radius: 50%; margin-right: 5px;"/> SD-W1972</a> | 11/25/2024, 2:15:55 AM | heyyyy thats so cool |
+| <a href="https://github.com/ImenaOphelia" style="display: flex; align-items: center;"><img width="30" src="https://avatars.githubusercontent.com/u/137053456?s=24&v=4" alt="ImenaOphelia" style="border-radius: 50%; margin-right: 5px;"/> ImenaOphelia</a> | 11/23/2024, 6:39:37 PM | Cool as hell! Don't you ever change it |
+| <a href="https://github.com/arssite" style="display: flex; align-items: center;"><img width="30" src="https://avatars.githubusercontent.com/u/91518669?s=24&v=4" alt="arssite" style="border-radius: 50%; margin-right: 5px;"/> arssite</a> | 11/23/2024, 5:02:34 PM | Great Profile |
 <!-- /Guestbook -->
 
 [![Add a Note](https://img.shields.io/badge/Add%20a%20Note-Click%20Here-brightgreen)](https://github.com/LovelyDev829/LovelyDev829/issues/1)
