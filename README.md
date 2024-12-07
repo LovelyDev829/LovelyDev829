@@ -5,6 +5,8 @@
 
 ![Visitor Count](https://profile-counter.glitch.me/LovelyDev829/count.svg)
 
+![Visitor Count](https://profile-counter.glitch.me/LovelyDev829/count.svg?color=white&style=circle)
+
 ## Overview
 <div align="center">
   <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=elitesuper&theme=github" />
