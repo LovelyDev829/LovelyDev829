@@ -69,14 +69,14 @@ Here are some comments from my guestbook:
 <a href="https://github.com/LovelyDev829/Deep-Live-Cam">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LovelyDev829&repo=Deep-Live-Cam&theme=transparent" />
 </a>
-<a href="https://github.com/LovelyDev829/social-app">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LovelyDev829&repo=social-app&theme=transparent" />
+<a href="https://github.com/LovelyDev829/highest-paying-software-companies">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LovelyDev829&repo=highest-paying-software-companies&theme=transparent" />
 </a>
 <a href="https://github.com/LovelyDev829/lobe-chat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LovelyDev829&repo=lobe-chat&theme=transparent" />
 </a>
-<a href="https://github.com/LovelyDev829/highest-paying-software-companies">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LovelyDev829&repo=highest-paying-software-companies&theme=transparent" />
+<a href="https://github.com/LovelyDev829/social-app">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LovelyDev829&repo=social-app&theme=transparent" />
 </a>
 
 
