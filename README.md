@@ -50,6 +50,19 @@ Here are some comments from my guestbook:
 
 #### Top Repositories
 
+<a href="https://github.com/LovelyDev829/LovelyDev829.github.io">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LovelyDev829&repo=LovelyDev829.github.io&theme=transparent" />
+</a>
+<a href="https://github.com/LovelyDev829/Josue.valdivia.portfolio">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LovelyDev829&repo=Josue.valdivia.portfolio&theme=transparent" />
+</a>
+<a href="https://github.com/LovelyDev829/3d-manipulator">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LovelyDev829&repo=3d-manipulator&theme=transparent" />
+</a>
+<a href="https://github.com/LovelyDev829/Go-github-auto-update">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LovelyDev829&repo=Go-github-auto-update&theme=transparent" />
+</a>
+
 <a href="https://github.com/LovelyDev829/lobe-chat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LovelyDev829&repo=lobe-chat&theme=transparent" />
 </a>
